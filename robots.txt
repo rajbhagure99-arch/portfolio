@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raj-bhagure.vercel.app/sitemap.xml
